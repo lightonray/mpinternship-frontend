@@ -1,0 +1,29 @@
+/* Add a CSS rule to display 'name' and 'isMammal' in the same row */
+.animal-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.animal-info h2 {
+  color: red;
+}
+
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.additionalinformation {
+  font-size: 24px;
+  color: #333;
+}
+
+.Animal {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  margin: 10px;
+  padding: 10px;
+}
