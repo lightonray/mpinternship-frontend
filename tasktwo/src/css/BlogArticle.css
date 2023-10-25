@@ -1,0 +1,29 @@
+.blog-article {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 20px;
+    background-color: #fff;
+  }
+  
+  .article-title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .article-content {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-top: 10px;
+  }
+  
+  .article-author {
+    font-style: italic;
+    color: #666;
+    margin-top: 10px;
+  }
+  
+  .article-date {
+    font-style: italic;
+    color: #666;
+    margin-top: 5px;
+  }

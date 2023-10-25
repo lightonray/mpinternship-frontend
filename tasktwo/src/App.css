@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+/* Navigation menu styles */
+nav {
+  background-color: black;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+  font-size: 18px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: #f0f0f0;
+}
+
+/* Active link style */
+nav a.active {
+  color: #ffcc00; /* Change the color for the active link */
+}

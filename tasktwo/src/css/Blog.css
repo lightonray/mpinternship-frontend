@@ -1,0 +1,35 @@
+/* Add your styling for the blog page */
+.blog-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Style the heading */
+  .blog-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the list of articles */
+  .blog-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Style each individual article item */
+  .blog-item {
+    margin: 10px 0;
+  }
+  
+  /* Style the links for the articles */
+  .blog-link {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 18px;
+    transition: color 0.3s;
+  }
+  
+  .blog-link:hover {
+    color: #007BFF; /* Change the color on hover */
+  }
