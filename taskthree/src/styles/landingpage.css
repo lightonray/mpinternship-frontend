@@ -1,0 +1,23 @@
+.landing-page {
+    background-image: url('../img/backimg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .content {
+    text-align: center;
+    color: white;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin: 10px 0;
+  }
+  
+  p {
+    font-size: 18px;
+  }

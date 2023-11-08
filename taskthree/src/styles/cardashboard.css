@@ -1,0 +1,39 @@
+.car-dashboard {
+    background-color: #242424;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  .add-car-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 15px;
+    z-index: 999;
+    background-color: seagreen;
+  }
+
+  .car-container {
+    background-color: grey;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+
+  h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .car-info {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  .car-info p {
+    margin: 10px 0;
+  }
+  
+  .car-info strong {
+    font-weight: bold;
+  }
